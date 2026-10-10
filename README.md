@@ -2,10 +2,10 @@
  
 **Pronouns:** he/him
 
-I am an Applied Computing student with a concentration in **Cybersecurity** at King Saud University. I'm passionate about network security, malware analysis, and building virtual lab environments to test and learn new concepts. 
+I am a B.Sc. in Applied Computing student with a concentration in **Cybersecurity** at King Saud University. I'm passionate about network security, malware analysis, and building virtual lab environments to test and learn new concepts. 
 
 ### 👨‍💻 About Me
-*   🎓 Studying at **King Saud University (KSU)**.
+*   🎓 Studying for a Bachelor's degree in Applied Computing (Cybersecurity) at King Saud University (KSU)**.
 *   🛡️ Currently working on exploring SOC operations, Zero Trust Architecture, and network traffic analysis, AI, SIEM Systems.
 
 
