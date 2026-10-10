@@ -6,7 +6,7 @@ I am an Applied Computing student with a concentration in **Cybersecurity** at K
 
 ### 👨‍💻 About Me
 *   🎓 Studying at **King Saud University (KSU)**.
-*   🛡️ Currently working on exploring SOC operations, Zero Trust Architecture, and network traffic analysis.
+*   🛡️ Currently working on exploring SOC operations, Zero Trust Architecture, and network traffic analysis, AI, SIEM Systems.
 
 
 ### 📫 How to reach me
