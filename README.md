@@ -8,6 +8,12 @@ I am a Cybersecurity student at King Saud University. I'm passionate about netwo
 *   🎓 Studying for a **Bachelor's degree in Applied Computing - Cybersecurity (ACST)** at **King Saud University (KSU)**.
 *   🛡️ Currently working on exploring SOC operations, Zero Trust Architecture, and network traffic analysis, AI, SIEM Systems.
 
+### 🛡️ Featured Project (In Progress)
+**AI-Enabled SIEM Solution with UEBA (MVP)** — *Graduation Project | King Saud University*
+- **Overview:** Designing an open-source User and Entity Behavior Analytics (UEBA) architecture extending **Wazuh** to detect insider threats and anomalous user activity beyond static rules.
+- **Detection & Analysis:** Proposing an unsupervised **Isolation Forest** model (`Python` / `scikit-learn`) to establish per-user behavioral baselines, with planned evaluation on the **CERT r4.2** dataset.
+- **AI-Assisted Triage:** Architecting a locally hosted **LLM** integration via REST API to generate human-readable alert explanations and incident report drafts, aligned with **OWASP LLM Top 10** security controls.
+- **Frameworks & Scope:** Derived from 8 **MITRE ATT&CK**–mapped use cases and 16 functional requirements.
 
 ### 📫 How to reach me
 *   **X (Twitter):** [@fa_sh86](https://x.com/fa_sh86)
